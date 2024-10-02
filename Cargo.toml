@@ -15,7 +15,7 @@ wit-bindgen-rt = "0.26.0"
 serde_json = "1.0"
 
 [package.metadata.component]
-package = "velo_it_group:connectwise_psa"
+package = "velo-it-group:connectwise-psa"
 
 [package.metadata.component.target]
 path = "wit"
